@@ -2,14 +2,413 @@
 # This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-12 14:48:11+0000\n"
+"PO-Revision-Date: 2024-02-02 13:25:53+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
 "Language: ja_JP\n"
 "Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#: languages/aioseo-lite.php:1242
+msgid "Broken Link Checker"
+msgstr "リンク切れチェッカー"
+
+#: languages/aioseo-lite.php:1245 dist/Lite/assets/js/AboutUs.323e843b.js:1
+msgid "Broken Link Checker by AIOSEO is an essential tool for ensuring that all internal and external links on your website are functioning correctly. Quickly check your site for broken links and easily fix them to improve SEO."
+msgstr "Broken Link Checker by AIOSEO は、サイト上のすべての内部リンクと外部リンクが正しく機能していることを確認するための必須ツールです。サイト内の壊れたリンクをすばやくチェックし、簡単に修正して SEO を改善できます。"
+
+#. Translators: 1 - "Title" or "Description".
+#: languages/aioseo-lite.php:2792 dist/Lite/assets/js/App.286c0ebd.js:15
+msgid "Generate New SEO %1$s"
+msgstr "新規 SEO の%1$sを生成"
+
+#: languages/aioseo-lite.php:2859
+msgid "Get the best tool to monitor your site for broken links and easily fix them to improve your SEO."
+msgstr "サイトのリンク切れをモニタリングして簡単に修正し、SEO を向上させる最高のツールを手に入れましょう。"
+
+#: languages/aioseo-lite.php:3571
+msgid "Installs AIOSEO Image SEO"
+msgstr "AIOSEO 画像 SEO をインストール"
+
+#: languages/aioseo-lite.php:3574
+msgid "Installs AIOSEO Index Now"
+msgstr "AIOSEO インデックスを今すぐインストール"
+
+#: languages/aioseo-lite.php:3577
+msgid "Installs AIOSEO Link Assistant"
+msgstr "AIOSEO リンクアシスタントをインストール"
+
+#: languages/aioseo-lite.php:3580
+msgid "Installs AIOSEO Local SEO"
+msgstr "AIOSEO ローカル SEO をインストール"
+
+#: languages/aioseo-lite.php:3583
+msgid "Installs AIOSEO News Sitemap"
+msgstr "AIOSEO ニュースサイトマップをインストール"
+
+#: languages/aioseo-lite.php:3586
+msgid "Installs AIOSEO Redirects"
+msgstr "AIOSEO リダイレクトをインストール"
+
+#: languages/aioseo-lite.php:3589
+msgid "Installs AIOSEO REST API"
+msgstr "AIOSEO REST API をインストール"
+
+#: languages/aioseo-lite.php:3592
+msgid "Installs AIOSEO Video Sitemap"
+msgstr "AIOSEO 動画サイトマップをインストール"
+
+#: languages/aioseo-lite.php:3595
+msgid "Installs Broken Link Checker"
+msgstr "リンク切れチェッカーをインストール"
+
+#: languages/aioseo-lite.php:3598
+msgid "Installs MonsterInsights Free"
+msgstr "MonsterInsights 無料版をインストール"
+
+#: languages/aioseo-lite.php:4171
+msgid "MonsterInsights Free"
+msgstr "MonsterInsights 無料版"
+
+#: languages/aioseo-lite.php:4704
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: app/Common/Admin/DeactivationSurvey.php:151
+msgid "Please select an option"
+msgstr "1つ選択してください"
+
+#: app/Common/Admin/DeactivationSurvey.php:289
+msgid "I no longer need the plugin"
+msgstr "プラグインはもう必要なくなりました"
+
+#: app/Common/Admin/DeactivationSurvey.php:292
+msgid "I'm switching to a different plugin"
+msgstr "別のプラグインに切り替えます"
+
+#: app/Common/Admin/DeactivationSurvey.php:293
+msgid "Please share which plugin"
+msgstr "切り替えるプラグインをお聞かせください"
+
+#: app/Common/Admin/DeactivationSurvey.php:296
+msgid "I couldn't get the plugin to work"
+msgstr "プラグインが機能しませんでした"
+
+#: app/Common/Admin/DeactivationSurvey.php:299
+msgid "It's a temporary deactivation"
+msgstr "一時的に無効にします"
+
+#: app/Common/Admin/DeactivationSurvey.php:303
+msgid "Please share the reason"
+msgstr "理由をお聞かせください"
+
+#: app/Common/Admin/DeactivationSurvey.php:311
+msgid "Quick Feedback"
+msgstr "クイックフィードバック"
+
+#. Translators: 1 - The plugin name.
+#: app/Common/Admin/DeactivationSurvey.php:317
+msgid "If you have a moment, please share why you are deactivating %1$s:"
+msgstr "お手数ではございますが、 %1$s を無効化する理由をお聞かせください。"
+
+#. Translators: 1 - & symbol.
+#: app/Common/Admin/DeactivationSurvey.php:347
+msgid "Submit %1$s Deactivate"
+msgstr "送信 %1$s 無効化"
+
+#. Translators: 1 - & symbol.
+#: app/Common/Admin/DeactivationSurvey.php:356
+msgid "Skip %1$s Deactivate"
+msgstr "スキップ %1$s 無効化"
+
+#: languages/aioseo-lite.php:6448
+msgid "The name of the item the author knows about (e.g. \"Amazon\")."
+msgstr "投稿者が精通している項目の名称 (例: 「Amazon」)。"
+
+#: languages/aioseo-lite.php:6458
+msgid "The organization the author works for."
+msgstr "投稿者が所属する組織。"
+
+#: languages/aioseo-lite.php:6527
+msgid "The school, college, or university where the author studied."
+msgstr "投稿者が学んだ学校、短大、大学。"
+
+#: languages/aioseo-lite.php:6602
+msgid "The URL of the item the author knows about (e.g. \"https://amazon.com\")."
+msgstr "投稿者が精通している項目の URL (例: \"https://amazon.com\")。"
+
+#: languages/aioseo-lite.php:6605
+msgid "The URL of the school, college, or university where the author studied."
+msgstr "投稿者が学んだ学校、短大、大学の URL。"
+
+#. Translators: 1 - Opening <code> tag, 2 - Closing </code> tag.
+#: languages/aioseo-lite.php:6371
+msgid "The following settings will be added directly to an author's schema meta data via the %1$sknowsAbout%2$s property. This property helps with the Experience aspect of Google's E-E-A-T guidelines. After setting the global options here, you can add them directly in an authors profile page."
+msgstr "次の設定は、%1$sknowsAbout%2$s プロパティを通して投稿者のスキーマメタデータに直接追加されます。このプロパティは、Google の E-E-A-T ガイドラインの「経験」に役立ちます。ここでグローバルオプションを設定した後、投稿者のプロフィールページにオプションを直接追加できます。"
+
+#: languages/aioseo-lite.php:7162
+msgid "Unlock Author SEO (E-E-A-T)"
+msgstr "投稿者 SEO (E-E-A-T) を利用"
+
+#: languages/aioseo-lite.php:7240
+msgid "Update Author SEO (E-E-A-T)"
+msgstr "投稿者 SEO (E-E-A-T) を更新"
+
+#: languages/aioseo-lite.php:6346
+msgid "The fields below provide structured information for search engines about the current author. By filling out these fields, you will enhance your online presence and improve search engine visibility. This increases the chances of your author details appearing prominently in search results, making it easier for readers, publishers, and media representatives to discover and connect with you."
+msgstr "以下のフィールドは、現在の投稿者に関する構造化された情報を検索エンジンに提供します。これらのフィールドに入力することで、オンライン上の存在感を高め、検索エンジンの表示レベルを改善できます。これにより、投稿者の詳細が検索結果の目立つところに表示される可能性が高まり、読者、出版社、メディア関係者があなたを発見し、つながりを築きやすくなります。"
+
+#: languages/aioseo-lite.php:1031
+#: dist/Lite/assets/user-profile-tab.aefdeef0.js:1
+msgid "Author SEO"
+msgstr "投稿者 SEO"
+
+#: languages/aioseo-lite.php:450
+msgid "Activate Author SEO (E-E-A-T)"
+msgstr "投稿者 SEO (E-E-A-T) を有効化"
+
+#: languages/aioseo-lite.php:517
+msgid "Add Item"
+msgstr "項目を追加"
+
+#: languages/aioseo-lite.php:576
+msgid "Additional URLs to help identify the item (e.g. \"https://en.wikipedia.org/wiki/Amazon_(company)\")."
+msgstr "項目の特定に役立つ追加 URL (例: \"https://en.wikipedia.org/wiki/Amazon_(company)\")。"
+
+#: languages/aioseo-lite.php:774
+msgid "Alumni Of"
+msgstr "卒業した学校"
+
+#: languages/aioseo-lite.php:1011
+msgid "Author Bio Block"
+msgstr "投稿者の自己紹介ブロック"
+
+#: languages/aioseo-lite.php:1015
+msgid "Author Experience Topics (E-E-A-T)"
+msgstr "投稿者の経験トピック (E-E-A-T)"
+
+#: languages/aioseo-lite.php:1021
+msgid "Author Info (E-E-A-T)"
+msgstr "投稿者の情報 (E-E-A-T)"
+
+#: languages/aioseo-lite.php:1027
+msgid "Author Schema"
+msgstr "投稿者スキーマ"
+
+#: languages/aioseo-lite.php:1034
+#: dist/Lite/assets/js/ToolsSettings.ae5c5be9.js:1
+msgid "Author SEO (E-E-A-T)"
+msgstr "投稿者 SEO (E-E-A-T)"
+
+#. Translators: 1 - "PRO".
+#: languages/aioseo-lite.php:1038
+msgid "Author SEO (E-E-A-T) is a %1$s Feature"
+msgstr "投稿者 SEO (E-E-A-T) は %1$s の機能です"
+
+#: languages/aioseo-lite.php:2201
+msgid "E-E-A-T for Higher Rankings"
+msgstr "E-E-A-T で上位ランクを目指しましょう"
+
+#: languages/aioseo-lite.php:2305
+msgid "Employer"
+msgstr "勤務先"
+
+#: languages/aioseo-lite.php:2311
+msgid "Enable Author Info"
+msgstr "投稿者の情報を有効化"
+
+#: languages/aioseo-lite.php:2314
+msgid "Enable Author SEO (E-E-A-T) on Your Site"
+msgstr "サイトで投稿者 SEO (E-E-A-T) を有効化"
+
+#: languages/aioseo-lite.php:2401
+msgid "Enter a URL and press enter"
+msgstr "URL を入力して「Enter」を押してください"
+
+#: languages/aioseo-lite.php:3527
+msgid "Indexing not allowed, blocking robots.txt rule detected"
+msgstr "インデックス化権限がありません。robots.txt をブロックするルールが検出されました"
+
+#: languages/aioseo-lite.php:3836
+msgid "Learn more about Author SEO (E-E-A-T)"
+msgstr "投稿者 SEO (E-E-A-T) についてさらに詳しく"
+
+#: languages/aioseo-lite.php:4695
+msgid "Optimize your site for Google's E-E-A-T ranking factor by proving your writer's expertise through author schema markup and new UI elements."
+msgstr "投稿者スキーママークアップと新しい UI 要素によりライターの専門性を証明することで、Google の E-E-A-T ランキングの要素にサイトを最適化しましょう。"
+
+#: languages/aioseo-lite.php:5379
+msgid "Reviewed By Schema"
+msgstr "スキーマによりレビュー済み"
+
+#: languages/aioseo-lite.php:5425
+msgid "Same As URLs"
+msgstr "URL と同じ"
+
+#: languages/aioseo-lite.php:5497
+msgid "School, college, or university URL"
+msgstr "学校、短大、大学の URL"
+
+#: languages/aioseo-lite.php:3560 dist/Lite/assets/js/AboutUs.323e843b.js:1
+msgid "Install Free Plugin"
+msgstr "無料プラグインをインストール"
+
+#: languages/aioseo-lite.php:3813 dist/Lite/assets/js/AboutUs.323e843b.js:1
+msgid "Leading WordPress backup & site migration plugin. Over 1,500,000+ smart website owners use Duplicator to make reliable and secure WordPress backups to protect their websites. It also makes website migration really easy."
+msgstr "WordPress の主要なバックアップおよびサイト移行プラグインです。150万以上のサイト所有者が Duplicator を使用して信頼できる安全な WordPress バックアップを作成し、サイトを守っています。また、このプラグインではサイトを非常に簡単に移行することもできます。"
+
+#. Translators: 1 - "PRO".
+#: languages/aioseo-lite.php:4278
+#: dist/Lite/assets/js/DatabaseTools.3dafa974.js:1
+#: dist/Lite/assets/js/ImportExport.8b7c6501.js:1
+msgid "Network Tools is a %1$s Feature"
+msgstr "ネットワークツールは %1$s の機能です。"
+
+#: languages/aioseo-lite.php:5194 dist/Lite/assets/js/Import.c351441a.js:1
+msgid "Rank Math SEO"
+msgstr "Rank Math SEO"
+
+#: languages/aioseo-lite.php:5798 dist/Lite/assets/js/Import.c351441a.js:1
+msgid "SEOPress"
+msgstr "SEOPress"
+
+#: languages/aioseo-lite.php:6987 dist/Lite/assets/js/AboutUs.323e843b.js:1
+msgid "Top-rated WordPress donation and fundraising plugin. Over 10,000+ non-profit organizations and website owners use Charitable to create fundraising campaigns and raise more money online."
+msgstr "WordPress の評価の高い寄付および募金プラグインです。1万以上の非営利団体やサイト所有者が Charitable を使用して募金キャンペーンを作成し、オンラインでより多くの寄付金を募っています。"
+
+#: languages/aioseo-lite.php:7174
+#: dist/Lite/assets/js/GeneralSettings.2f4268c5.js:1
+msgid "Unlock Domain Activations"
+msgstr "ドメインの有効化を利用"
+
+#: languages/aioseo-lite.php:7194
+#: dist/Lite/assets/js/DatabaseTools.3dafa974.js:1
+#: dist/Lite/assets/js/ImportExport.8b7c6501.js:1
+msgid "Unlock Network Tools"
+msgstr "ネットワークツールを利用"
+
+#: languages/aioseo-lite.php:7845 dist/Lite/assets/js/Import.c351441a.js:1
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#. Translators: 1 - "PRO".
+#: languages/aioseo-lite.php:2150
+#: dist/Lite/assets/js/GeneralSettings.2f4268c5.js:1
+msgid "Domain Activations is a %1$s Feature"
+msgstr "ドメイン有効化は %1$s の機能です"
+
+#: languages/aioseo-lite.php:3389 dist/Lite/assets/js/Import.c351441a.js:1
+msgid "Import Local SEO From Other Plugins"
+msgstr "他のプラグインからローカル SEO をインポート"
+
+#: languages/aioseo-lite.php:3398 dist/Lite/assets/js/Import.c351441a.js:1
+msgid "Import your Local SEO settings and locations from other plugins."
+msgstr "ローカル SEO 設定とロケーションを他のプラグインからインポートします。"
+
+#: languages/aioseo-lite.php:523
+msgid "Add License Key"
+msgstr "ライセンスキーを追加"
+
+#: languages/aioseo-lite.php:722 dist/Lite/assets/js/Import.c351441a.js:1
+msgid "All Local Seo"
+msgstr "すべてのローカル SEO"
+
+#: languages/aioseo-lite.php:5442
+msgid "Save (Don't Modify Date)"
+msgstr "保存 (日付は変更しない)"
+
+#: languages/aioseo-lite.php:7234
+msgid "Update (Don't Modify Date)"
+msgstr "更新 (日付は変更しない)"
+
+#: languages/aioseo-lite.php:7114
+msgid "Unavailable for Legal Reasons"
+msgstr "Unavailable for Legal Reasons"
+
+#. Translators: 1 - Line break HTML tags, 2 - Plugin short name ("AIOSEO"),
+#. Analytics plugin name (e.g. "MonsterInsights").
+#: app/Common/Main/Updates.php:1551
+msgid "You have been using the %2$s Google Analytics V3 (Universal Analytics) integration which has been deprecated by Google and is no longer supported. This may affect your website's data accuracy and performance.%1$sTo ensure a seamless analytics experience, we recommend migrating to %3$s, a powerful analytics solution.%1$s%3$s offers advanced features such as real-time tracking, enhanced e-commerce analytics, and easy-to-understand reports, helping you make informed decisions to grow your online presence effectively.%1$sClick the button below to be redirected to the %3$s setup process, where you can start benefiting from its robust analytics capabilities immediately."
+msgstr "%2$s Google アナリティクス V3 (ユニバーサル アナリティクス) の連携をご利用いただいていましたが、この連携は Google により廃止され、サポートが終了しました。このため、サイトのデータ精度とパフォーマンスに影響が出る可能性があります。%1$sシームレスなアナリティクス体験を確保するため、強力なアナリティクスソリューションである %3$s への移行をお勧めします。%1$s%3$s は、リアルタイムトラッキング、強化された eコマース分析、わかりやすいレポートなどの高度な機能を提供しており、情報に基づいて判断し、オンラインでのプレゼンスを効果的に成長させるために役立ちます。%1$s以下のボタンをクリックして %3$s のセットアップ手順に移動し、強力な分析機能すぐに活用し始めましょう。"
+
+#. Translators: 1 - Opening HTML strong tag, 2 - The plugin name ("All in One
+#. SEO"), 3 - Closing HTML strong tag.
+#: languages/aioseo-lite.php:284
+msgid "%1$sThis plugin is known to conflict with %2$s.%3$s We don't recommend that you activate this plugin in order to prevent conflicts."
+msgstr "%1$sこのプラグインは %2$s と競合することがわかっています%3$s。競合を防ぐため、このプラグインの有効化はお勧めしません。"
+
+#: languages/aioseo-lite.php:1106
+msgid "Bad Gateway"
+msgstr "Bad Gateway"
+
+#: languages/aioseo-lite.php:1109
+msgid "Bad Request"
+msgstr "Bad Request"
+
+#: languages/aioseo-lite.php:2767
+msgid "Gateway Timeout"
+msgstr "Gateway Timeout"
+
+#: languages/aioseo-lite.php:2847
+msgid "Get Started with Google Analytics for Free"
+msgstr "Google アナリティクスを無料で始めよう"
+
+#: languages/aioseo-lite.php:2950
+msgid "Gone"
+msgstr "Gone"
+
+#: languages/aioseo-lite.php:3250
+msgid "HTTP Version Not Supported"
+msgstr "HTTP Version Not Supported"
+
+#: languages/aioseo-lite.php:3262
+msgid "I'm a Teapot"
+msgstr "I'm a Teapot"
+
+#: languages/aioseo-lite.php:3552
+#: dist/Lite/assets/js/Monsterinsights.0e7c6684.js:1
+msgid "Install"
+msgstr "インストール"
+
+#: languages/aioseo-lite.php:3627
+msgid "Internal Server Error"
+msgstr "Internal Server Error"
+
+#: languages/aioseo-lite.php:4528
+msgid "Not Implemented"
+msgstr "Not Implemented"
+
+#: languages/aioseo-lite.php:4544
+msgid "Not Modified"
+msgstr "Not Modified"
+
+#: languages/aioseo-lite.php:4866
+msgid "Permanent Redirect"
+msgstr "Permanent Redirect"
+
+#: languages/aioseo-lite.php:5617
+msgid "See Other"
+msgstr "その他を表示"
+
+#: languages/aioseo-lite.php:5819
+msgid "Service Unavailable"
+msgstr "Service Unavailable"
+
+#: languages/aioseo-lite.php:6255
+msgid "Temporary Redirect"
+msgstr "Temporary Redirect"
+
+#. Translators: 1 - Type of conflicting plugin (i.e. SEO or Sitemap), 2 -
+#. Opening HTML link tag, 3 - Closing HTML link tag.
+#: app/Common/Admin/Notices/ConflictingPlugins.php:71
+msgid "Please keep only one %1$s plugin active, otherwise, you might lose your rankings and traffic. %2$sClick here to Deactivate.%3$s"
+msgstr "有効な %1$s プラグインは1つだけにしてください。1つだけにしない場合、ランキングやトラフィックを失う可能性があります。 %2$s無効化するにはこちらをクリックしてください。%3$s"
+
+#: app/Common/Main/Updates.php:1548
+msgid "Universal Analytics V3 Deprecation Notice"
+msgstr "ユニバーサルアナリティクス V3 廃止のお知らせ"
 
 #: languages/aioseo-lite.php:1182
 msgid "Blocked due to access forbidden (403)"
@@ -967,6 +1366,11 @@ msgstr "AI ジェネレータを使用"
 msgid "Upgrade to Pro Today"
 msgstr "今すぐ Pro 版にアップグレード"
 
+#. Translators: 1 - "Titles" or "Descriptions".
+#: languages/aioseo-lite.php:2800 dist/Lite/assets/js/App.286c0ebd.js:15
+msgid "Generating SEO %1$s is a Pro Feature"
+msgstr "SEO %1$s の生成は Pro の機能です"
+
 #: languages/aioseo-lite.php:2011 dist/Lite/assets/js/Header.a78efd66.js:1
 msgid "Depending on the number of posts being scanned, this process can take some time. You can safely leave this page and check back later."
 msgstr "このプロセスは、スキャンされた投稿数によって時間がかかる場合があります。このページを離れて、後から戻って確認することもできます。"
@@ -986,6 +1390,10 @@ msgstr "Google Search Console への接続の期限が切れたか、接続が�
 #: dist/Lite/assets/js/PostsTable.84794f44.js:1
 msgid "Position"
 msgstr "ポジション"
+
+#: languages/aioseo-lite.php:5458 dist/Lite/assets/js/App.286c0ebd.js:15
+msgid "Schema"
+msgstr "スキーマ"
 
 #: languages/aioseo-lite.php:1085
 #: dist/Lite/assets/js/KeywordRankings.e5ea4be7.js:1
@@ -2918,6 +3326,12 @@ msgstr "カテゴリーごとに目標に対する結果の割合を比較し、
 msgid "Complete support for schema markup so you can get more clicks and traffic with rich snippets."
 msgstr "リッチスニペットを使用してより多くのクリックとトラフィックを獲得できるように、スキーママークアップを完全サポートします。"
 
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:154 languages/aioseo-lite.php:3157
+#: dist/Lite/assets/js/Index.a7dcecc7.js:1
+msgid "Hey, we noticed you have been using %1$s for some time - that’s awesome! Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "%1$s をご利用いただき、ありがとうございます。他の方にも利用していただけるように、WordPress でぜひ5つ星の評価をお願いします !"
+
 #. Translators: Separator between blog name and feed type in feed links.
 #: app/Common/Rss.php:288
 msgctxt "feed link"
@@ -2959,6 +3373,10 @@ msgstr "%1$s %2$s &#8220;%3$s&#8221; の検索結果フィード"
 #: app/Common/Rss.php:302
 msgid "%1$s %2$s %3$s Feed"
 msgstr "%1$s %2$s %3$sフィード"
+
+#: languages/aioseo-lite.php:3601
+msgid "Installs OptinMonster"
+msgstr "OptinMonster をインストール"
 
 #. Translators: 1 - The plugin short name ("AIOSEO").
 #: app/Common/Admin/Dashboard.php:42
@@ -3257,6 +3675,10 @@ msgstr "WordPress 用のナンバー1アフィリエイト管理プラグイン�
 msgid "The #1 Stripe payments plugin for WordPress. Start accepting one-time and recurring payments on your WordPress site without setting up a shopping cart. No code required."
 msgstr "WordPress 用のナンバー1 Stripe 支払いプラグインです。ショッピングカートを設定しなくても、WordPress サイトで1回限りまたは定期的な支払いを受け始めることができます。コードを書く必要はありません。"
 
+#: languages/aioseo-lite.php:1606 dist/Lite/assets/js/AboutUs.323e843b.js:1
+msgid "Connect with your visitors after they leave your website with the leading web push notification software. Over 10,000+ businesses worldwide use PushEngage to send 15 billion notifications each month."
+msgstr "訪問者がサイトを離れた後でも、Web プッシュ通知ソフトウェアを使用して訪問者とつながりましょう。世界中の1万社以上の企業が、PushEngage を使用して毎月150億件の通知を送信しています。"
+
 #: languages/aioseo-lite.php:2217 dist/Lite/assets/js/AboutUs.323e843b.js:1
 msgid "Easily display Twitter content in WordPress without writing any code. Comes with multiple layouts, ability to combine multiple Twitter feeds, Twitter card support, tweet moderation, and more."
 msgstr "WordPress で Twitter コンテンツを簡単に表示できます。コードを書く必要はありません。複数のレイアウトが用意されており、複数の Twitter フィードの組み合わせ、Twitter カードのサポート、ツイートのモデレートなどを利用できます。"
@@ -3285,9 +3707,17 @@ msgstr "リアルタイムのソーシャルプルーフ通知により、売り
 msgid "The fastest drag & drop landing page builder for WordPress. Create custom landing pages without writing code, connect them with your CRM, collect subscribers, and grow your audience. Trusted by 1 million sites."
 msgstr "WordPress 用の最速のドラッグアンドドロップランディングページビルダー。コードを記述せずにカスタムランディングページを作成し、それらを CRM に接続し、サブスクライバーを収集して、オーディエンスを増やします。100万のサイトから信頼されています。"
 
+#: languages/aioseo-lite.php:3427 dist/Lite/assets/js/AboutUs.323e843b.js:1
+msgid "Improve your WordPress email deliverability and make sure that your website emails reach user’s inbox with the #1 SMTP plugin for WordPress. Over 3 million websites use it to fix WordPress email issues."
+msgstr "WordPress のナンバー1 SMTP プラグインが、WordPress のメール配信率を改善し、サイトのメールがユーザーの受信トレイに確実に届くようにします。WordPress のメールの問題を解決するために、300万以上のサイトがこのプラグインを使用しています。"
+
 #: languages/aioseo-lite.php:6414 dist/Lite/assets/js/AboutUs.323e843b.js:1
 msgid "The leading WordPress analytics plugin that shows you how people find and use your website, so you can make data driven decisions to grow your business. Properly set up Google Analytics without writing code."
 msgstr "利用者がサイトをどのように見つけて使用するかを示す、WordPress 分析プラグインです。データに基づいて判断、決定し、ビジネスを成長させることができます。また、コードを書かなくても、Google Analytics を適切に設定します。"
+
+#: languages/aioseo-lite.php:6294 dist/Lite/assets/js/AboutUs.323e843b.js:1
+msgid "The best drag & drop WordPress form builder. Easily create beautiful contact forms, surveys, payment forms, and more with our 1000+ form templates. Trusted by over 6 million websites as the best forms plugin."
+msgstr "WordPress 用の最高のドラッグ & ドロップフォームビルダー。1000件以上のフォームテンプレートを使用して、美しいお問い合わせフォーム、アンケート、支払いフォームなどを簡単に作成できます。最高のフォームプラグインとして、600万以上のサイトに信頼されています。"
 
 #: languages/aioseo-lite.php:3604 dist/Lite/assets/js/AboutUs.323e843b.js:1
 msgid "Instantly get more subscribers, leads, and sales with the #1 conversion optimization toolkit. Create high converting popups, announcement bars, spin a wheel, and more with smart targeting and personalization."
@@ -4341,6 +4771,10 @@ msgstr "はい、とても気に入っています !"
 msgid "Create, manage and monitor redirects for 404's or modified posts + server redirects, full site redirects and site aliases (Pro & Elite plans only)"
 msgstr "404や変更した投稿のリダイレクト、およびサーバーリダイレクト、フルサイトリダイレクト、サイトエイリアスに対するリダイレクトを作成、管理、モニタリングできます (Pro & Elite プランのみ)"
 
+#: languages/aioseo-lite.php:1719 dist/Lite/assets/js/Index.a7dcecc7.js:1
+msgid "Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "他の方にも利用していただけるように、WordPress でぜひ5つ星の評価をお願いします !"
+
 #: languages/aioseo-lite.php:5287
 msgid "Referrer"
 msgstr "リファラー"
@@ -4440,6 +4874,18 @@ msgstr "使い方"
 #: app/Common/Admin/Notices/DeprecatedWordPress.php:86 app/init/notices.php:171
 msgid "%1$sNote:%2$s %3$s will be discontinuing support for WordPress versions older than version 5.3 by the end of %4$s. %5$sRead more for additional information.%6$s"
 msgstr "%1$s注:%2$s %3$s は、バージョン 5.3 以前の WordPress のバージョンのサポートを %4$s末に終了する予定です。%5$s詳しくは、こちらをご覧ください。%6$s"
+
+#: languages/aioseo-lite.php:2707
+msgid "Forbidden"
+msgstr "Forbidden"
+
+#: languages/aioseo-lite.php:2722
+msgid "Found"
+msgstr "Found"
+
+#: languages/aioseo-lite.php:7111
+msgid "Unauthorized"
+msgstr "Unauthorized"
 
 #: languages/aioseo-lite.php:3424 dist/Lite/assets/js/App.286c0ebd.js:15
 msgid "Improve your SEO rankings with additional keyphrases."
@@ -4946,6 +5392,10 @@ msgstr "詳しい説明はこちら"
 msgid "WooCommerce Products, Product Categories, Product Tags, Product Attributes + WooCommerce smart tags (price, brand, etc.)"
 msgstr "WooCommerce 商品、商品カテゴリー、商品タグ、商品属性および WooCommerce スマートタグ (価格、ブランドなど)"
 
+#: languages/aioseo-lite.php:2109
+msgid "Display Info"
+msgstr "表示情報"
+
 #: languages/aioseo-lite.php:2564 dist/Lite/assets/blocks.57b74022.js:2
 #: dist/Lite/assets/post-settings.dc68199a.js:1
 msgid "Fax Number"
@@ -5086,6 +5536,11 @@ msgstr "VAT ID を表示"
 msgid "Website URL"
 msgstr "サイトの URL"
 
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:1398 dist/Lite/assets/js/Import.c351441a.js:1
+msgid "Choose a plugin to import Local SEO directly into %1$s."
+msgstr "ローカル SEO を %1$s に直接インポートするプラグインを選択します。"
+
 #: languages/aioseo-lite.php:5830
 #: dist/Lite/assets/js/WebmasterTools.2dd0a4c3.js:1
 #: dist/Lite/assets/post-settings.dc68199a.js:1
@@ -5166,6 +5621,10 @@ msgstr "%1$s ローカル - ビジネス情報"
 #: languages/aioseo-lite.php:190
 msgid "%1$s Local - Opening Hours"
 msgstr "%1$s ローカル - 営業時間"
+
+#: languages/aioseo-lite.php:4818
+msgid "Pass through"
+msgstr "パススルー"
 
 #: languages/aioseo-lite.php:4396 dist/Lite/assets/js/RobotsMeta.f21d983b.js:1
 msgid "No Index RSS Feeds"
@@ -5767,6 +6226,12 @@ msgstr ".htaccessファイルを書き込み中にエラーが発生しました
 #: app/Common/Api/Wizard.php:58
 msgid "Try Again"
 msgstr "もう一度お試しください"
+
+#. Translators: 1 - A plugin name (e.g. "MonsterInsights", "Broken Link
+#. Checker", etc.), 2 - The plugin short name ("AIOSEO").
+#: app/Common/Api/Wizard.php:455
+msgid "You selected to install the free %1$s plugin during the setup of %2$s, but there was an issue during installation. Click below to manually install."
+msgstr "%2$s のセットアップ中に無料の %1$s プラグインのインストールを選択しましたが、インストール中に問題が発生しました。手動でインストールするには、以下をクリックしてください。"
 
 #. Translators: 1 - The phone number.
 #: app/Common/Migration/GeneralSettings.php:729
@@ -8191,6 +8656,12 @@ msgstr "動画サイトマップを開く"
 msgid "The geographic area where a service or offered item is provided."
 msgstr "サービス・提供されたアイテムが提供される地理的領域。"
 
+#. Translators: 1 - The name of one of our partner plugins, 2 - The plugin
+#. short name ("AIOSEO").
+#: languages/aioseo-lite.php:69
+msgid "%1$s connects %2$s to Google Analytics, providing a powerful integration. %1$s is a sister company of %2$s."
+msgstr "%1$s は %2$s を Google アナリティクスに接続し、強力な連携を実現します。%1$s は %2$s の姉妹企業です。"
+
 #: languages/aioseo-lite.php:5089 dist/Lite/assets/js/App.286c0ebd.js:1
 #: dist/Lite/assets/js/GlobalSettings.7eedc4b0.js:1
 msgid "Press enter to create a keyword"
@@ -8500,6 +8971,12 @@ msgstr "インポートと削除"
 #: dist/Lite/assets/js/RobotsEditor.92d9ff5c.js:2
 msgid "%1$s has detected a physical robots.txt file in the root folder of your WordPress installation. We recommend removing this file as it could cause conflicts with WordPress' dynamically generated one. %2$s can import this file and delete it, or you can simply delete it."
 msgstr "%1$sは、WordPressインストールのルートフォルダーで物理robots.txtファイルを検出しました。 WordPressの動的に生成されたファイルと競合する可能性があるため、このファイルを削除することをお勧めします。%2$sは、このファイルをインポートして削除することも、単に削除することもできます。"
+
+#. Translators: 1 - Server name, 2 - Opening link tag, 3 - Closing link tag.
+#: languages/aioseo-lite.php:3652
+#: dist/Lite/assets/js/RobotsEditor.92d9ff5c.js:4
+msgid "It appears that your server is running on %1$s, so the fix should be as simple as checking the %2$scorrect .htaccess implementation on wordpress.org%3$s."
+msgstr "お使いのサーバーは %1$s で動作しているようです。%2$s正しい .htaccess の実装を wordpress.org%3$s で確認するだけで、簡単に修正できます。"
 
 #: languages/aioseo-lite.php:4644
 #: dist/Lite/assets/js/RobotsEditor.92d9ff5c.js:2
@@ -11017,6 +11494,10 @@ msgstr "機能追加の提案"
 #: languages/aioseo-lite.php:4285
 msgid "never"
 msgstr "参加しない"
+
+#: app/Common/Admin/Notices/Review.php:104
+msgid "That's awesome! Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "他の方にも利用していただけるように、WordPress でぜひ5つ星の評価をお願いします !"
 
 #. Author of the plugin
 msgid "All in One SEO Team"
